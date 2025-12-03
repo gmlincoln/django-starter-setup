@@ -134,3 +134,6 @@ def home(request):
 </html>
 
 ```
+
+
+##### Visit http://127.0.0.1:8000/ in your browser to see your project.(locally)
