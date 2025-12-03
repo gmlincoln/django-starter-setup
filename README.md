@@ -6,19 +6,22 @@ It includes basic URL routing, a view, template rendering, and passing dictionar
 ---
 
 ## 📁 Project Structure
-|-.venv(create virtual environment)
-|myProject/
-    │── manage.py
-    │
-    ├── myProject/
-    │ ├── init.py
-    │ ├── settings.py
-    │ ├── urls.py
-    │ └── wsgi.py
-    │
-    └── core/
-    ├── init.py
-    ├── views.py
-    ├── urls.py
-    └── templates/
-    └── index.html
+```bash
+|-.venv(create virtual environment)  
+|myProject/  
+    │── manage.py  
+    │  
+    ├── myProject/  
+    │ ├── init.py  
+    │ ├── settings.py  
+    │ ├── urls.py  
+    │ └── wsgi.py  
+    │  
+    └── core/  
+    ├── init.py  
+    ├── views.py  
+    ├── urls.py  
+    └── templates/  
+    └── index.html  
+    
+```
