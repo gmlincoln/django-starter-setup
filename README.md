@@ -1,11 +1,11 @@
-# Django Starter Project
+### Django Starter Project
 
 This is a clean and simple Django starter project with a single app named **core**.  
 It includes basic URL routing, a view, template rendering, and passing dictionary data to a template.
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 ```bash
 |-.venv(create virtual environment)  
 |myProject/  
@@ -29,9 +29,9 @@ It includes basic URL routing, a view, template rendering, and passing dictionar
 
 ---
 
-## 🚀 How to Run the Project
+### 🚀 How to Run the Project
 
-### 1️⃣ Create Virtual Environment
+#### 1️⃣ Create Virtual Environment
 ```bash
 python -m venv .venv
 # or
@@ -39,7 +39,7 @@ py -m venv .venv
 ```
 
 
-### 2️⃣ Activate Environment
+#### 2️⃣ Activate Environment
 **Windows**
 ```bash
 
@@ -47,7 +47,7 @@ py -m venv .venv
 
 ```
 
-### 3️⃣ Install Django
+#### 3️⃣ Install Django
 
 ```bash 
 
@@ -56,7 +56,7 @@ pip install django
 ```
 
 
-### 4️⃣ Run Server
+#### 4️⃣ Run Server
 ```bash
 
 python manage.py runserver
@@ -68,7 +68,7 @@ py manage.py runserver
 
 ---
 
-## 🔗 URL Routing Overview
+#### 🔗 URL Routing Overview
 
 **Project URLs: `myProject/urls.py`**
 
